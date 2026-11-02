@@ -5,9 +5,12 @@ This project began as an unfinished game developed by following a YouTube tutori
 <br/>
 <br/>
 <img width="1918" height="1079" alt="Screenshot 2026-11-03 020559" src="https://github.com/user-attachments/assets/f6a6d62e-935d-4d34-9cd9-bf92d1568cc5" />
-
-
-
+<br/>
+<br/>
+![til](https://raw.githubusercontent.com/GENESlS/Godot_Game_Demo/refs/heads/main/Screen%20Recording%202026-11-03%20015730.gif)
+<br/>
+<br/>
+![til](https://raw.githubusercontent.com/GENESlS/Godot_Game_Demo/refs/heads/main/Recording%202026-11-03%20020735.gif)
 <pre>
 
 Source Video: https://www.youtube.com/watch?v=AoGOIiBo4Eg
