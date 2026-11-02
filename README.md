@@ -1,8 +1,8 @@
-<pre>
+
 
 This project began as an unfinished game developed by following a YouTube tutorial. I expanded and improved upon the original work, transforming it into a short, standalone game.
 
-  
+<pre>
 
 Source Video: https://www.youtube.com/watch?v=AoGOIiBo4Eg
 
