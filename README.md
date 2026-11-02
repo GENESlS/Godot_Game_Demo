@@ -13,7 +13,7 @@ This project began as an unfinished game developed by following a YouTube tutori
 <br/>
 <br/>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GENESlS/Godot_Game_Demo/refs/heads/main/Screen%20Recording%202026-11-03%20015730.gif" alt="Demo">
+  <img src="https://raw.githubusercontent.com/GENESlS/Godot_Game_Demo/refs/heads/main/Recording%202026-11-03%20020735.gif" alt="Demo">
 </div>
 <pre>
 
